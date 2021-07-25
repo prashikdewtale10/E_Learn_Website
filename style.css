@@ -1,0 +1,46 @@
+.nav_li{
+    color: #6c757d !important;
+}
+.nav_li:hover{
+    color: white !important;
+}
+.imgsec{
+    background-image: url(images/coder-coding-on-laptop_1600.jpg);
+    /* width: 100%; */
+    height: 100%;
+}
+.df{
+    color: white;
+    background-image: url(https://www.futurity.org/wp/wp-content/uploads/2018/04/coder-coding-on-laptop_1600.jpg);
+    padding-top: 15em;
+    padding-bottom: 15em;
+    padding-left: 5em;
+}
+.df_text{
+    font-size: 65px;
+}
+.df_text_2{
+    font-size: 23px;
+}
+.topa{
+    padding-top: 20px;
+}
+.g_a , .row_gra{
+background-color: linear-gradient(-45de, #EC5252 0, #6E1A52 100%) !important; 
+}
+.course{
+    background: #e9ecef;
+    border: .3rem;
+}
+.copy{
+    padding: 15px;
+    background: #000 !important;
+}
+.li:hover{
+    text-decoration: underline !important;
+
+}
+.c1:hover{
+    /* box-shadow:  0rem .5rem 1rem rgba(black, .15); */
+    box-shadow: 0rem 0.5rem 1rem black;
+}
